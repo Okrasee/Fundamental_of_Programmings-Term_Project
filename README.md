@@ -1,1 +1,1 @@
-# 15-112 Term Project - Physics Based Game
+# 15-112 Term Project - Physics Game
